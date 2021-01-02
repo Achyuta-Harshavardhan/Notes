@@ -4,6 +4,14 @@ Cross Validation:
 3. Stratified cross validation --> no of instance in each class is in proper proportion
 4. Time series CV
 
+Sensitiviry: TP/TP+FN 
+Specificity: TN/TN+FP
+
+Sensitivity need to be high if positive model prediction is important
+Specificity need to be high if negative model prediction is important
+
+Bias and Varience:
+
 
 
 

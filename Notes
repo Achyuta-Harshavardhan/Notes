@@ -1,3 +1,32 @@
+Cross Validation:
+1. Leave One Out CV (LOOCV)---> (Low bias and high computation)
+2. K fold CV
+3. Stratified cross validation --> no of instance in each class is in proper proportion
+4. Time series CV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Decision Tree:
 
 yes/No:

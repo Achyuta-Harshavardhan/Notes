@@ -10,7 +10,27 @@ Specificity: TN/TN+FP
 Sensitivity need to be high if positive model prediction is important
 Specificity need to be high if negative model prediction is important
 
-Bias and Varience:
+Bias is the inability of the machine learning model to capture the true relationship.
+Varience is the difference in fits between the data sets
+
+True positive rate = sensitivity
+False Positive rate = 1- specificity
+
+ROC summarizes all of the confusion matrices that each threshold prodeuced
+(It is the graph btw true positive rate and false positive rate) --> It is used to identify the best threshold value
+AUC is used to decide wich method is better
+
+Linear Regression:
+1. we need to minimize the square of the distance btw the observed values and the line.
+
+
+
+
+
+
+
+
+
 
 
 
@@ -36,6 +56,11 @@ Bias and Varience:
 
 
 Decision Tree:
+
+The goal of Decision tree is to identify the decision rules
+
+Basic Assumption: No Basic Assumption
+Feature
 
 yes/No:
 1. Calculate the Gini impurity scores
